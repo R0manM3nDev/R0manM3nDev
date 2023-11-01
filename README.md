@@ -1,5 +1,5 @@
 # Roman Mendoza Developed
-
+<div style="background-image: url('URL_DE_TU_IMAGEN'); background-size: cover; padding: 100px;"></div>
 Hello! I am a young Salvadoran student of Software Development Engineering who falls more in love with computing every day and at the same time I learn from it. I will have my projects to develop here to share with everyone!
 
 ## Skills
